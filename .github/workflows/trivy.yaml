@@ -17,4 +17,3 @@ jobs:
         uses: safestack-hq/labs-action@v0.0.5
         env:
           LABS_AUTH: '${{secrets.LABS_AUTH}}'
-        user: nick
